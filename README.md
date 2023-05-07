@@ -2,9 +2,9 @@
 
 * [Hati za Tovuti kwa Lugha nyingi](https://github.com/xxai-doc)
 
-Msimbo wa mwisho wa tovuti ni chanzo huria, karibu ili kusaidia kuboresha tafsiri
+Msimbo wa mbele wa tovuti ni chanzo huria, karibu ili kusaidia kuboresha tafsiri
 
-* [nambari ya mbele](https://github.com/xxai-art/web)
+* [Msimbo wa Mbele](https://github.com/xxai-art/web)
 * [Pakiti za lugha kwa tovuti kwa ujumla](https://github.com/xxai-art/web/tree/main/i18n)
 * [Pakiti za lugha za moduli za kuingia](https://github.com/wacpkg/user/tree/main/ui.i18n)
 * [Hati za Tovuti kwa Lugha nyingi](https://github.com/xxai-doc)
